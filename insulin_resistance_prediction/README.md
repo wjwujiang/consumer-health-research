@@ -12,7 +12,7 @@ Insulin resistance, a precursor to type 2 diabetes, is characterized by impaired
 
 ### Data Availability
 
-The de-identified dataset used in this study is available to approved researchers for reproducibility purposes only. Researchers seeking dataset access must complete the Insulin Resistance Dataset Access Request Form, [available here](https://docs.google.com/forms/d/e/1FAIpQLSebcfCZMQKBua7QS9MSvqr9n-fqmfJvmU4blOHXP1WZC0NFqA/viewform?usp=preview).
+The de-identified dataset used in this study is available to approved researchers for reproducibility purposes only. Researchers seeking dataset access must complete the Insulin Resistance Dataset Access Request Form, [available here](https://docs.google.com/forms/d/e/1FAIpQLSebcfCZMQKBua7QS9MSvqr9n-fqmfJvmU4blOHXP1WZC0NFqA/viewform?usp=preview). Once approved, the email address provided in the Dataset Access Request Form will be added to a google group allowlist (`google-health-insulin-resistance-prediction-data-external@google.com`), which grants read only access to a Google Cloud Storage (GCS) Bucket where the dataset is stored. Instructions on how to access the bucket will be provided in the approval email.
 
 Aggregated data derived from the original de-identified dataset is provided in the `/data` folder. All files are provided in [parquet format](https://parquet.apache.org/) and are loaded as [pandas dataframes](https://pandas.pydata.org/docs/index.html). 
 
