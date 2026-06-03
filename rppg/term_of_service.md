@@ -27,7 +27,7 @@ Your use of the HR Dataset is subject to the Google Terms of Service and the fol
 *   **Non-Clinical Research Only**: The HR Dataset is for non-clinical research use only. Do not use the HR Dataset for commercial use, to provide patient care, for clinical purposes, as a substitute for professional medical advice, or in any manner that is overseen by or requires clearance or approval from any applicable regulatory authority. For example, you may not use the HR Dataset as or in a medical device.     
 *   **No Illegal Use**: Do not use the HR Dataset in violation of applicable laws and regulations.
 *   **No Sharing**: Do not share the HR Dataset with any third parties.
-*   **No Re-identification**: To protect participant privacy, the HR Dataset has been de-identified. Do not make any attempt to re-identify or re-link any of the individual data subjects whose data has been de-identified to create the HR Dataset. Re-identification or re-linking of any such individual subjects is strictly prohibited and results in the immediate termination of all rights granted to the HR Dataset. 
+*   **No Re-identification**: To protect participant privacy, identifiers of study participants (other than videos of faces) have been removed from the dataset. Do not make any attempt to re-identify or re-link any of the individual data subjects whose data has been de-identified to create the HR Dataset. Re-identification or re-linking of any such individual subjects is strictly prohibited and results in the immediate termination of all rights granted to the HR Dataset. 
 *   **Secure Storage**: Keep the HR Dataset secure, encrypted, and restricted to authorized researchers on your team.
 *   **No Identifiable Publications**: You are prohibited from including any identifiable information from the HR Dataset in any publications or presentations.
 *   **Data Retention Policy**: You may only retain the HR Dataset for the duration of your research. You must delete the HR Dataset upon completion of your research.
@@ -38,7 +38,7 @@ To access the HR Dataset, you must present a copy of your IRB-approved study pro
 If you make any publication related to your use of the HR Dataset, please cite our paper on the research behind the HR Dataset. However, you may not use Google’s name to endorse or promote your work without our prior written permission. To request our permission, contact us at [google-heart-rate-measurement-study@google.com](mailto:google-heart-rate-measurement-study@google.com).  
 
 ### Citation
-> Liao, S., Di Achille, P., Wu, J., Borac, S., Wang, J., Liu, X., ... & Poh, M. Z. (2025). Passive Heart Rate Monitoring During Smartphone Use in Everyday Life. arXiv preprint arXiv:2503.03783.
+> Liao, S., Di Achille, P., Wu, J. et al. Passive heart-rate monitoring during smartphone use in everyday life. Nature (2026). https://doi.org/10.1038/s41586-026-10507-6
 
 ## Term & Termination
 The term of this Agreement will commence upon your acceptance of this Agreement (including acceptance by your use of the HR Dataset) and will continue in full force and effect until your research is completed. Google may terminate this Agreement (i) upon 15 days written notice for any reason or (ii) immediately if Google reasonably finds you are in breach of any of the Use Restrictions. Upon termination of this Agreement for any reason, you must delete and cease use of all copies of the HR Dataset in your possession or control. 

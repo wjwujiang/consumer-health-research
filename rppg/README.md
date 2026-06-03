@@ -2,11 +2,6 @@
 
 We are excited to announce the research release of the **Google Heart Rate Measurement Study Dataset (the "HR Dataset")**. 
 
-This dataset is curated to facilitate research in remote photoplethysmography (rPPG), non-contact physiological sensing, and algorithm bias evaluation across diverse skin tones using consumer-grade cameras.
-
----
-
-## About the Dataset
 The HR Dataset consists of data collected from consented research participants during laboratory and free-living studies, as detailed in our Nature publication, **["Passive heart-rate monitoring during smartphone use in everyday life"](https://www.nature.com/articles/s41586-026-10507-6)**. 
 
 It is available to qualified researchers for non-commercial research use only and includes:
