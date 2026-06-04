@@ -1,47 +1,43 @@
-# Announcement: Google Heart Rate Measurement Study Dataset (rPPG)
+# Google Heart Rate Measurement Study Dataset (rPPG)
 
-We are excited to announce the research release of the **Google Heart Rate Measurement Study Dataset (the "HR Dataset")**. 
+Thank you for your interest in the **Google Heart Rate Measurement Study Dataset (the "HR Dataset")**. The HR Dataset is available solely for research purposes and is not intended for commercial use. 
 
-The HR Dataset consists of data collected from consented research participants during laboratory and free-living studies, as detailed in our Nature publication, **["Passive heart-rate monitoring during smartphone use in everyday life"](https://www.nature.com/articles/s41586-026-10507-6)**. 
+The HR Dataset consists of data collected from consented research participants during laboratory and free-living studies as detailed in our Nature publication, **["Passive heart-rate monitoring during smartphone use in everyday life"](https://www.nature.com/articles/s41586-026-10507-6)**. The HR Dataset is available to qualified researchers for non-commercial, non-clinical research use only and for no other purpose, meaning that it is shared with other researchers in order to help advance research. The HR Dataset is only available upon request and includes: 
 
-It is available to qualified researchers for non-commercial research use only and includes:
-*   **Skin Tone Information** (e.g., Fitzpatrick skin tone scale, Monk Skin Tone scale)
-*   **Facial Video Recordings**:
-    *   *Laboratory Studies*: Facial video recordings include full faces of study participants.
-    *   *Free-Living Conditions*: Facial video recordings consist of de-identified patches from study participants' forehead regions (10x5 forehead patch) to preserve participant privacy.
-*   **Ground-Truth Heart Rate (HR)** measurements
-*   **Trained Model Access ("PHRM-mini")**: Access to a heart rate estimation model ("PHRM-mini") trained on this dataset is also provided. Please see the Nature publication for details.
+*   **Skin Tone Information**
+*   **Facial Video Recordings**
+*   **Heart Rate**
 
----
+Facial video recordings captured during laboratory studies include video of study participants' full faces.  Facial video recordings captured under "free-living" conditions consist of de-identified patches from study participants' forehead regions (10x5 pixel patches) to preserve participant privacy.  The dataset additionally includes a heart rate estimation model ("PHRM-mini") trained on the dataset.  Please see the publication for more details.
 
-## Strict Safety & Privacy Guidelines
-Given the sensitive nature of facial video recordings, recipients must adhere to strict data usage agreements:
-1.  **No Third-Party Sharing**: You must not share or distribute the HR Dataset (in whole or in part) to any individuals outside your approved research team.
-2.  **No Re-Identification**: You must not attempt to re-identify or contact any participants in the study.
-3.  **No Identifiable Data in Publications**: You must not include any identifiable information—including explicit facial video recordings or frames—in any related publications, presentations, or public materials.
+You must not (i) share the HR Dataset with any third-parties, (ii) use it for any purpose other than non-commercial, non-clinical research purposes, (iii) re-identify or attempt to reidentify any individuals within the HR Dataset, or (iv) include any identifiable information (including face video recordings) in any related publications or presentations. 
 
 ---
 
-## Access & Participation Requirements
-To qualify for access to the HR Dataset, applicants must meet the following criteria and submit supporting documentation:
-*   **Verified Academic Email**: A valid and active institutional email address (e.g., `.edu`).
-*   **Ethics Committee Approval**: A copy of a study protocol or research plan that has been reviewed and approved by your institution's Institutional Review Board (IRB) or an equivalent ethics committee.
-*   **Data Security Plan**: A detailed plan outlining how your team will keep the dataset secure, encrypted, and restricted only to authorized, approved researchers.
-*   **Affirmative Consent**: Explicit agreement to the terms of service, including non-sharing and presentation restrictions.
+## Participation Requirements
+Prior to receiving access to the HR Dataset, all applicants will need to provide:
+*   A verified academic email address (e.g., edu);
+*   A study protocol or plan that has been reviewed and approved by your institution's Institutional Review Board (IRB) or an equivalent ethics committee;
+*   A plan detailing how you will keep the HR Dataset secure, encrypted, and restricted to authorized researchers on your team;
+*   Affirmative consent that you will not share the HR Dataset with any third parties; and
+*   Affirmative consent that you will not display any explicit examples of the HR Dataset in any publications or presentations.
 
 ---
 
-## How to Request Access
-If you meet the participation requirements and would like to request access to the HR Dataset, please complete the official access request form.
-
-**Important**: Before applying, you must read and agree to the **[Google Heart Rate Measurement Study Dataset Terms of Service](term_of_service.md)**.
+## Requesting Access
+Please complete the form below to apply for access to the HR Dataset. Access is granted only to approved researchers who meet specific criteria, including having a verified academic email address and agreeing not to share the HR Dataset with others. If you are approved to access the HR Dataset, your use is subject to the **[Google Heart Rate Measurement Study Dataset Terms of Service](term_of_service.md)**.
 
 👉 **[Apply for Dataset Access here](https://docs.google.com/forms/d/1ln6EmWYd_TqXhOmFxJsQ5sl0H4QtVyjlXGO5sn3LOZc/viewform)**
 
-### Review Process
-The HR Dataset Project Team will review all submissions. If you are approved to access the HR Dataset, your use is subject to the **[Google Heart Rate Measurement Study Dataset Terms of Service](term_of_service.md)**.
+By completing this form, you consent to the collection of the personally-identifiable information (“PII”) you submit, which will be used by the HR Dataset Project Team to evaluate and select researchers who will receive access to the HR Dataset, as well as for record-keeping purposes. The HR Dataset Project Team will also have access to the information that you submit through this form, including your name, email address, and institutional or organizational affiliation.
 
-You will be contacted via your verified academic email with additional details, terms of service agreements, and next steps for data access.
+Your PII will be subject to the [Google Terms of Service](https://policies.google.com/terms?hl=en-US), the [Google Heart Rate Measurement Study Dataset Terms of Service](term_of_service.md), and the [Google Privacy Policy](https://policies.google.com/privacy). Your PII will be maintained indefinitely for auditing purposes, and to ensure compliance with the applicable terms and regulatory requirements.
+
+If you meet the participation criteria, you will be contacted via email and provided with additional details and next steps.
+
+By completing this form you attest that:
+*   you are 18 years of age or older; and
+*   all of the information you submit in this form is true and accurate.
 
 *For questions, feedback, or inquiries, please reach out to the project team at:*  
 📧 **[google-heart-rate-measurement-study@google.com](mailto:google-heart-rate-measurement-study@google.com)**
@@ -49,4 +45,9 @@ You will be contacted via your verified academic email with additional details, 
 ---
 
 ### Disclaimers
-*Google makes no claims, promises, or guarantees about the accuracy, completeness, or adequacy of the contents of the HR Dataset, and expressly disclaims liability for any errors or omissions in the data. No warranty of any kind is given with respect to the contents of the HR Dataset; Google is not responsible for your use or misuse of the HR Dataset.*
+To the maximum extent permitted by applicable law:
+*   Google makes no claims, promises, representations, warranties or guarantees about the accuracy, completeness, fitness for purpose or adequacy of the contents of the HR Dataset;
+*   Google expressly disclaims any and all liability for any errors or omissions in the data;
+*   Google provides no warranty or representations of any kind (whether express or implied) with respect to the contents of the HR Dataset; and
+*   Google is not responsible for your use or misuse of the HR Dataset
+
